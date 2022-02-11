@@ -1,0 +1,17 @@
+{
+  "title": "Ghamza Blog",
+  "author": "Hamza Jadid",
+  "about": "Tech Blog",
+  "links": [
+    {
+      "id": 1,
+      "title": "Facebook",
+      "url": "https://www.facebook.com/ghamza.tech"
+    },
+    {
+      "id": 2,
+      "title": "Github",
+      "url": "https://www.linkedin.com/in/hamza-jadid/"
+    }
+  ]
+}
