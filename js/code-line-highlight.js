@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", (_) => {
         .flat();
       
       const newHtmlLines = htmlLines.map((x, i) =>
-        !lines.includes(i) ? `<span style="opacity: 0.2;">${x}</span>` : x
+        !lines.includes(i) ? `<span style="opacity: 0.3;">${x}</span>` : x
       );
 
       el.innerHTML = newHtmlLines.join("\n");
